@@ -1,0 +1,7 @@
+HOST = 'my_host'
+DATABASE = 'ia'
+USER = 'root'
+PASSWORD = 'root'
+URL_RUN = 'http://meteo_serveur:5000/rest/bdd'
+URL_HISTO = 'http://meteo_serveur:5000/rest/histo'
+URL_HISTO_2019 = 'http://meteo_serveur:5000/rest/histo2019'

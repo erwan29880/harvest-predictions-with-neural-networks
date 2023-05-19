@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+application/app/models_deep/**
+application/app/scalers/**
